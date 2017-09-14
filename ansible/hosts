@@ -1,0 +1,8 @@
+# Control server
+[con]
+192.168.33.10 ansible_user=vagrant
+
+# Production servers
+[pro]
+192.168.33.20 ansible_user=vagrant
+192.168.33.30 ansible_user=vagrant
