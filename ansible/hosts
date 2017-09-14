@@ -1,3 +1,7 @@
+# Localhost
+[loc]
+localhost ansbile_connection=local
+
 # Control server
 [con]
 192.168.33.10 ansible_user=vagrant
